@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "employee_id": "116522",
+    "name": "Trần Huy Công",
+    "email": "congth2@viettel.com.vn",
+    "doituong": "HĐLĐ",
+    "phone": "0984260520",
+    "center": "TTS",
+    "dept": "Phòng phát triển sản phẩm",
+    "work_mode": "Online"
+  },
+  {
+    "id": 2,
+    "employee_id": "456645",
+    "name": "Đồng Thị Thanh Hương",
+    "email": "huongdt165@viettel.com.vn",
+    "doituong": "OS",
+    "phone": "0326900566",
+    "center": "TTS",
+    "dept": "Phòng phát triển sản phẩm",
+    "work_mode": "Online"
+  }
+]

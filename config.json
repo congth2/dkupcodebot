@@ -1,0 +1,23 @@
+{
+  "telegram_token": "8316668175:AAHXkEyj9xJbSuMlDjf3m0SOcAr05Rgfzgo",
+  "google_form": {
+    "action_url": "https://docs.google.com/forms/d/e/1FAIpQLSf9BPPBGyJFCdk1Ld1BAwskmCdk55UOiLZy1oUJnFDjcyvfNQ/formResponse",
+    "mapping": {
+      "employee_id": "entry.1211383306",
+      "name": "entry.1254549365",
+      "email": "entry.554080422",
+      "doituong": "entry.448374809",
+      "phone": "entry.1685449335",
+      "center": "entry.1403114991",
+      "dept": "entry.2012062536",
+      "work_mode": "entry.1607935005",
+      "ngay_thuc_hien": "entry.951553736",
+      "noi_dung": "entry.1501077974",
+      "ghi_chu": "entry.1403142268"
+    }
+  },
+  "proxy": {
+    "http": "http://10.207.248.107:9999",
+    "https": "http://10.207.248.107:9999"
+  }
+}
