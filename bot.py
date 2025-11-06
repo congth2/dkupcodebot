@@ -66,7 +66,8 @@ async def register(update: Update, context: ContextTypes.DEFAULT_TYPE):
            f"Ngày: {today}\n"
            f"Nội dung: {content}\n"
            f"Ghi chú: {note}")
-    await update.message.reply_markdown(msg, reply_markup=markup)
+    await update.message.reply_text(msg, parse_mode="MarkdownV2", reply_markup=markup)
+    
 
 # --- Handle Submit ---
 async def button(update: Update, context: ContextTypes.DEFAULT_TYPE):
@@ -118,3 +119,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
