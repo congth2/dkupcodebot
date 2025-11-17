@@ -1,7 +1,6 @@
 [
   {
-    "id": 1,
-    "employee_id": "116522",
+    "id": "116522",
     "name": "Trần Huy Công",
     "email": "congth2@viettel.com.vn",
     "doituong": "HĐLĐ",
@@ -11,8 +10,7 @@
     "work_mode": "Online"
   },
   {
-    "id": 2,
-    "employee_id": "456645",
+    "id": "456645",
     "name": "Đồng Thị Thanh Hương",
     "email": "huongdt165@viettel.com.vn",
     "doituong": "OS",
